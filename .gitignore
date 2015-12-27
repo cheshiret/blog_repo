@@ -1,19 +1,9 @@
-<<<<<<< HEAD
 .DS_Store
 Thumbs.db
 db.json
-*.log
 node_modules/
 public/
 .deploy*/
-=======
-<<<<<<< HEAD
-.DS_Store
-Thumbs.db
-*.log
-node_modules/
-.deploy*/
-=======
 # Logs
 logs
 *.log
@@ -41,5 +31,3 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
->>>>>>> 7123ee4898dbf0939a9aa256a17f32edaf5d99db
->>>>>>> 480592e6b253580aa02443d1cd74ee5287ac1ebf
