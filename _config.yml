@@ -72,5 +72,5 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: https://github.com/t0nychen/t0nychen.github.io.git
+  repository: https://github.com/cheshiret/cheshiret.github.io.git
   branch: master
