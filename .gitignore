@@ -4,6 +4,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+.idea
 # Logs
 logs
 *.log
