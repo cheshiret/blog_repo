@@ -1,7 +1,11 @@
 title: How to Build Your Personal Blog With Hexo And Github
 date: 2015-12-14 18:21:23
 categories: SKILLS
-tags: HEXO, HowTo, WINDOWS, MAC
+tags: 
+- HEXO
+- HowTo
+- WINDOWS
+- MAC
 description: A Introduction of how I create my personal blog with hexo with github
 ---
 
